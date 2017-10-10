@@ -1,0 +1,22 @@
+{
+  "name": "foxtrel-kernel",
+  "version": "1.0.0",
+  "description": "foxtrel集成",
+  "main": "foxtrel-kernel",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qzhongyou/foxtrel-kernel.git"
+  },
+  "keywords": [
+    "foxtrel-kernel"
+  ],
+  "author": "玉面",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qzhongyou/foxtrel-kernel/issues"
+  },
+  "homepage": "https://github.com/qzhongyou/foxtrel-kernel#readme"
+}
