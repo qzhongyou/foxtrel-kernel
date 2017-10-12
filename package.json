@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/qzhongyou/foxtrel-kernel#readme",
   "dependencies": {
+    "iconv-lite": "^0.4.19",
     "lodash": "^4.17.4"
   }
 }
