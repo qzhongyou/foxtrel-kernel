@@ -19,6 +19,7 @@ foxtrel.log = require("./lib/log.js");
 
 //require插件请求
 foxtrel.require = require("./lib/require.js");
+
 //util工具
 foxtrel.util =require("./lib/util.js");
 
