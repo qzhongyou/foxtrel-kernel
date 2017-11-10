@@ -1,6 +1,6 @@
 {
   "name": "foxtrel-kernel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "foxtrel集成核心",
   "main": "foxtrel-kernel",
   "scripts": {
