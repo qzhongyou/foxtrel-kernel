@@ -16,6 +16,7 @@ Object.defineProperty(global, 'foxtrel', {
 
 //日志
 foxtrel.log = require("./lib/log.js");
+foxtrel.log.level = 0x01110;
 
 //require插件请求
 foxtrel.require = require("./lib/require.js");
